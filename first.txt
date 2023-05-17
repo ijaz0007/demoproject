@@ -1,3 +1,4 @@
+new changes for rebase
 first commit
 new changes with commits
 for repo
